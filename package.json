@@ -1,0 +1,17 @@
+{
+  "name": "mongo-test",
+  "version": "1.0.0",
+  "description": "in memory mongo test",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "*",
+    "jest": "*",
+    "mongodb": "*",
+    "mongodb-memory-server": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "souparno bandyopadhyay",
+  "license": "ISC"
+}
